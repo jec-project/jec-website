@@ -129,7 +129,7 @@ ul, ol {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url('../assets/jec-company-bg.jpg');
+    background-image: url('../assets/img/jec-company-bg.jpg');
 }
 
 .bg-img .overlay {
@@ -196,7 +196,7 @@ ul, ol {
 
 /* --  Buttons  -- */
 
-.main-btn, .secondary-btn, .read-more-btn {
+.main-btn, .secondary-btn {
     display: inline-block;
     padding: 0.7em 1.1em;
     margin: 0.3em;
@@ -215,7 +215,7 @@ ul, ol {
     color: #FFF;
 }
 
-.secondary-btn, .read-more-btn {
+.secondary-btn {
     background: #ba00ff;
     color: #fff !important;
 }
@@ -559,10 +559,6 @@ pre {
 .about-install-read-more {
     text-align: center;
     margin-top: 2em;
-}
-
-.about-install-read-more a {
-    color: #fff;
 }
 
 /*------------------------------------*\
