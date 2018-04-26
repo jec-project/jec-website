@@ -113,7 +113,7 @@ ul, ol {
 }
 
 .bg-dark {
-    background-color: #1C1D21;
+    background-color: #1e1e1e;
 }
 
 
@@ -177,8 +177,12 @@ ul, ol {
     margin-bottom: 60px;
 }
 
-.section-header .title {
+.section-header h2 {
     text-transform: capitalize;
+}
+
+.section-header h3 {
+    font-size: 1.5em;
 }
 
 .title:after {
@@ -303,7 +307,7 @@ ul, ol {
         transition: 0.2s color;
     }
     .main-nav>li>a {
-        color: #10161A;
+        color: #1e1e1e;
         padding: 15px 0px;
     }
     #nav.nav-transparent:not(.fixed-nav) .main-nav>li>a {
@@ -345,8 +349,8 @@ ul, ol {
         position: fixed;
         right: 0;
         height: calc(100vh - 80px);
-        -webkit-box-shadow: 0px 80px 0px 0px #1C1D21;
-        box-shadow: 0px 80px 0px 0px #1C1D21;
+        -webkit-box-shadow: 0px 80px 0px 0px #1e1e1e;
+        box-shadow: 0px 80px 0px 0px #1e1e1e;
         max-width: 250px;
         width: 0%;
         -webkit-transform: translateX(100%);
@@ -354,7 +358,7 @@ ul, ol {
         transform: translateX(100%);
         margin: 0;
         overflow-y: auto;
-        background: #1C1D21;
+        background: #1e1e1e;
         -webkit-transition: 0.2s all;
         transition: 0.2s all;
     }
@@ -415,7 +419,7 @@ ul, ol {
 
 .nav-collapse span, .nav-collapse span:before, .nav-collapse span:after {
     height: 4px;
-    background: #10161A;
+    background: #1e1e1e;
     -webkit-transition: 0.2s all;
     transition: 0.2s all;
 }
@@ -516,7 +520,7 @@ header {
 }
 
 .about-invert {
-    background-color: #1C1D21;
+    background-color: #1e1e1e;
 }
 
 .about i, .about-invert i {
@@ -531,7 +535,7 @@ header {
 
 .about:after {
     content: "";
-    background-color: #1C1D21;
+    background-color: #1e1e1e;
     position: absolute;
     left: 0;
     top: 0;
@@ -552,7 +556,7 @@ header {
 }
 
 pre {
-    background: #10161A;
+    background: #1e1e1e;
     color: #fff;
 }
 
