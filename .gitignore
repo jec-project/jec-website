@@ -1,0 +1,6 @@
+#####################################
+# JEC Website Project .gitignore
+# Please maintain alphabetical order!
+#####################################
+
+/node_modules

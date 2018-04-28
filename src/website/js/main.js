@@ -22,6 +22,7 @@
 		$('html, body').animate({
 			scrollTop: $(this.hash).offset().top
 		}, 600);
+		$('#nav').toggleClass('open');
 	};
 
 	$("#nav .main-nav a[href^='#']").on('click', doScroll);

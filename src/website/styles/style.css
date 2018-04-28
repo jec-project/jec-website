@@ -200,7 +200,7 @@ ul, ol {
 
 /* --  Buttons  -- */
 
-.main-btn, .secondary-btn {
+.main-btn, .secondary-btn, .wiki-btn {
     display: inline-block;
     padding: 0.7em 1.1em;
     margin: 0.3em;
@@ -219,12 +219,12 @@ ul, ol {
     color: #FFF;
 }
 
-.secondary-btn {
+.secondary-btn, .wiki-btn {
     background: #ba00ff;
     color: #fff !important;
 }
 
-.main-btn:hover, .secondary-btn:hover, .outline-btn:hover {
+.main-btn:hover, .secondary-btn:hover, .wiki-btn {
     opacity: 0.8;
 }
 
@@ -626,7 +626,7 @@ pre {
   		font-size:3em;
 	}
 
-    .main-btn , .default-btn , .outline-btn , .secondary-btn  {
+    .main-btn, .default-btn, .secondary-btn  {
   		padding: 0.8em 1.5em;
   		font-size: 1em;
 	}

@@ -1,0 +1,28 @@
+{
+  "name": "jec-website",
+  "version": "1.0.0",
+  "description": "Official JEC Project website.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pechemann/jec-website.git"
+  },
+  "keywords": [
+    "JEC",
+    "Website",
+    "JavaScript",
+    "TypeScript",
+    "server",
+    "applications"
+  ],
+  "author": "Pascal ECHEMANN",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/pechemann/jec-website/issues"
+  },
+  "homepage": "https://github.com/pechemann/jec-website#readme",
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-uglify": "^3.3.0"
+  }
+}
