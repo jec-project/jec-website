@@ -1,6 +1,6 @@
-# JavaScript Entreprise Container *(JEC)* Projects Website
+# JavaScript Enterprise Container *(JEC)* Projects Website
 
-JavaScript Entreprise Container *(JEC)* Projects official Website source code (running on http://jecproject.org/)
+JavaScript Enterprise Container *(JEC)* Projects official Website source code (running on http://jecproject.org/)
 
 [![][jec-logo]][jec-url]
 
@@ -29,5 +29,5 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[jec-url]: https://github.com/pechemann/JEC
+[jec-url]: https://jecproject.org
 [jec-logo]: https://raw.githubusercontent.com/pechemann/JEC/master/assets/jec-logos/jec-logo.png
