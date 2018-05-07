@@ -3,6 +3,8 @@
 # Please maintain alphabetical order!
 #####################################
 
+/dist
+
 /node_modules
 
 package-lock.json
